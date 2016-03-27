@@ -1,0 +1,13 @@
+{
+  "name": "record_store_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "collector.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC"
+}
